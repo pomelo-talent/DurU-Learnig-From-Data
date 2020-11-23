@@ -1,5 +1,7 @@
 # DurU-Learnig-From-Data
 
+Durham University Business Analytics Programme - Learning From Data - Summative Assignment
+
 Work in groups of up to three
 
 1. Reading the dataset
