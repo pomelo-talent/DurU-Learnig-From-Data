@@ -8,13 +8,13 @@ Work in groups of up to three
 
 3. Splitting data into training data and test data
 
-4. Decision Tree & Random Forest [Writtern by one group member]
+4. Decision Tree & Random Forest [Written by one group member]
 
 5. Gussian Naive Bayes & Multinomial Naive Bayes [Written by another group memeber]
 
-6. Support Vector Machine-Linear & Support Vector Machine-rbf & Support Vector Machine-poly [Writtern by me]
+6. Support Vector Machine-Linear & Support Vector Machine-rbf & Support Vector Machine-poly [Written by me]
 
-7. Neural Network [Writtern by me]
+7. Neural Network [Written by me]
 
 8. Evaluation [The part of Learning Curve is written by me]
 
