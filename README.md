@@ -1,6 +1,6 @@
 # DurU-Learnig-From-Data
 
-Durham University - Learning From Data - Summative Assignment
+Durham University - Course: Learning From Data - Summative Assignment
 
 Work in groups of up to three
 
