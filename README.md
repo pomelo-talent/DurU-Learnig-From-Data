@@ -21,3 +21,9 @@ Work in groups of up to three
 8. Evaluation [The part of Learning Curve is written by me]
 
 
+Dataset Selection:
+
+Name: bank marketing data set 
+
+url: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
