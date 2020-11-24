@@ -6,7 +6,7 @@ Work in groups of up to three
 
 1. Reading the dataset
 
-2. Feature Engineering
+2. Feature Engineering (Label Encoding; Data Visualization-PairGrid&Heatmap; Data Balance; Data Normalization)
 
 3. Splitting data into training data and test data
 
