@@ -2,7 +2,7 @@
 
 My Postgraduate Course - Learning From Data - Summative Assignment
 
-Work in groups of up to three
+Work in groups of three
 
 1. Reading the dataset
 
