@@ -1,7 +1,6 @@
 # DurU-Learnig-From-Data
 
-My Postgraduate Course - Learning From Data - Summative Assignment
-
+My Postgraduate Course - Learning From Data
 Work in groups of three
 
 1. Reading the dataset
