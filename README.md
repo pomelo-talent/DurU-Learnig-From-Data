@@ -1,4 +1,4 @@
-# DurU-Learnig-From-Data
+# DurU-Learning-From-Data
 
 My Postgraduate Course - Learning From Data
 
